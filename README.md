@@ -1,7 +1,4 @@
 
-
-# - [Visit Website Live](https://github.com](https://alabay-pixelbridges.vercel.app/))
-
 **Use Technology**
 - Next.js,
 - Tailwind CSS,
