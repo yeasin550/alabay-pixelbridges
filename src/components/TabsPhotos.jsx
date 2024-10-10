@@ -8,16 +8,17 @@ const TabsPhotos = () => {
     const [currentSet, setCurrentSet] = useState(0);
 
     const all = [
-        'https://img.freepik.com/free-photo/cute-dog-studio_23-2150687246.jpg',
-        'https://img.freepik.com/free-photo/cute-dog-spending-time-outdoors_23-2150687033.jpg',
+        'https://img.freepik.com/free-photo/cute-dog-with-nature-background_23-2150687009.jpg',
+        'https://img.freepik.com/free-photo/cute-dog-with-nature-background_23-2150687003.jpg',
         'https://youtu.be/VPG9YcEXbks?si=AsbiMSTu1IpaqZ-D',
         'https://youtu.be/vdzQZqCLVzE?si=wUJC-ubG6NdtaPVk',
         'https://img.freepik.com/free-photo/3d-rendering-cartoon-dog-portrait_23-2150907020.jpg',
         'https://img.freepik.com/free-photo/3d-rendering-cartoon-dog-portrait_23-2150907166.jpg',
         'https://youtu.be/SrF988zqyKo?si=jRMb1C2lGvnUJyrv',
         'https://youtu.be/bMx4iwyHgOs?si=AsM-YBtRV3u8oiks',
-         'https://img.freepik.com/free-photo/cute-dog-with-nature-background_23-2150687009.jpg',
-        'https://img.freepik.com/free-photo/cute-dog-with-nature-background_23-2150687003.jpg',
+        'https://img.freepik.com/free-photo/cute-dog-studio_23-2150687246.jpg',
+        'https://img.freepik.com/free-photo/cute-dog-spending-time-outdoors_23-2150687033.jpg',
+        
     ]
 
     const photos = [
