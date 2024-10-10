@@ -25,7 +25,7 @@ const RoadMap = () => {
     // console.log(gradient)
     return (
         <div className="w-11/12 mx-auto md:px-5 my-20 relative -mt-[400px]">
-            <h1 className="text-white font-bold text-6xl md:text-8xl">ROAD MAP</h1>
+            <h1 className="banner text-white font-bold text-6xl md:text-8xl">ROAD MAP</h1>
             <div className="md:flex justify-between items-center">
                 <div className="md:w-1/2 space-y-9">
                     <h1 className="text-4xl font-bold">Our journey is just beginning. Explore our roadmap to see the exciting milestones and future plans we have in store.

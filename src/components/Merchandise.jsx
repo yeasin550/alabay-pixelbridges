@@ -46,7 +46,7 @@ const Merchandise = () => {
 
     return (
         <div>
-            <h1 className="md:text-8xl my-12 text-4xl text-[#FFA800] font-bold text-center">Merchandise</h1>
+            <h1 className="vision md:text-8xl my-12 text-4xl text-[#FFA800] font-bold text-center">Merchandise</h1>
             <div
                 className={`relative md:w-10/12 h-[550px] mx-auto bg-purple-300 overflow-hidden rounded-2xl bg-slide-in`}
                 style={{

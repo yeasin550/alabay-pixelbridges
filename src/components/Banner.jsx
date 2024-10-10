@@ -25,7 +25,7 @@ const Banner = () => {
                 </div>
                 <div className="md:w-1/2 md:text-right text-justify space-y-5 px-8">
                     <h1 className="font-extrabold text-4xl md:text-6xl text-[#F87A03]">History of </h1>
-                    <h1 className="font-extrabold text-5xl md:text-8xl text-white">
+                    <h1 className="banner font-extrabold text-5xl md:text-8xl text-white">
                        ALABAY
                     </h1>
                     <p className="text-3xl">The Central Asian Shepherd Dog, also known as Alabay, has been a guardian of livestock and property for centuries. Originating from Central Asia, these dogs are renowned for their courage, strength, and loyalty.</p>

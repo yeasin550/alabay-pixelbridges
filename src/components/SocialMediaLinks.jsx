@@ -6,10 +6,11 @@ import maskgroup from "@/assets/maskgroup.png";
 const SocialMediaLinks = () => {
     return (
         <div className="md:w-9/12 mx-auto">
-            <h1 className="text-8xl text-[#FFA800] font-bold ">Social Media <br /> Links </h1>
+            <h1 className="vision text-8xl text-[#FFA800] font-bold ">Social Media <br /> Links </h1>
             <div className="md:flex justify-between items-center">
+                
 
-                <div className="bg-[#417DF2] rounded-xl py-12 px-16 space-y-6">
+                <div className="bg-[#417DF2] rounded-2xl border-8 border-[#132e64] py-12 px-16 space-y-6">
                    <div className="flex gap-4 items-center">
                     <Image
                         src={twitter}

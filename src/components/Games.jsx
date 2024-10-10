@@ -45,7 +45,7 @@ const Games = () => {
 
     return (
         <div>
-         <div className="my-10">   <h1 className="text-8xl text-[#FFA800] font-bold text-center">GAMES</h1>
+            <div className="my-10">   <h1 className="vision text-8xl text-[#FFA800] font-bold text-center">GAMES</h1>
              <h1 className="text-3xl  font-bold text-center">Stay tuned for upcomming games!</h1>
              </div>
                     <div className="relative w-11/12 h-[550px] mx-auto overflow-hidden rounded-3xl shadow-lg">

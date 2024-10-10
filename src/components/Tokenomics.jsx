@@ -9,7 +9,7 @@ const Tokenomics = () => {
 
             {/* Content with constrained width */}
             <div className="relative w-11/12 mx-auto px-5 py-72 z-10">
-                <h1 className="text-white font-bold md:text-8xl text-5xl">TOKENOMICS</h1>
+                <h1 className="banner text-white font-bold md:text-8xl text-5xl">TOKENOMICS</h1>
                 <div className="md:flex justify-between items-center">
                     <div className="md:w-1/2 space-y-9">
                         <div className="bg-black rounded-2xl py-5 px-10 space-y-3 shadow-2xl">

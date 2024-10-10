@@ -10,7 +10,7 @@ const ProjectVision = () => {
 
 
             <div className="relative my-24">
-                <h1 className="text-4xl md:text-8xl text-[#FFA800] font-bold text-center">PROJECT VISION</h1>
+                <h1 className="vision text-4xl md:text-8xl text-[#FFA800] font-bold text-center">PROJECT VISION</h1>
                 <div className="md:w-11/12 mx-auto text-center">
                     <Image
                         src={vision}
